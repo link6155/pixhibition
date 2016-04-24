@@ -32,11 +32,6 @@
 		},
 		{
 			"author": "Linked Designs",
-            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/cool.png",
-            		"name": "Cool"
-		},
-		{
-			"author": "Linked Designs",
             		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/mining.png",
             		"name": "Mining"
 		},
@@ -49,6 +44,11 @@
 			"author": "Linked Designs",
             		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/tinypixl1080.png",
             		"name": "Tiny Pixl"
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/cool.png",
+            		"name": "Cool"
 		},
 		{
 			"author": "Linked Designs",
