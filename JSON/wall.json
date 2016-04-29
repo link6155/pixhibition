@@ -7,6 +7,11 @@
 		},
 		{
 			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/edge%20of%20serenity%20wide.png",
+            		"name": "Edge of Serenity (Landscape)"
+		},
+		{
+			"author": "Linked Designs",
             		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/pillar%20of%20isolation.png",
             		"name": "Pillar of Isolation"
 		},
@@ -29,6 +34,11 @@
 			"author": "Linked Designs",
             		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/orpix.png",
             		"name": "Orpix"
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/orpix_wide.png",
+            		"name": "Orpix (Landscape)"
 		},
 		{
 			"author": "Linked Designs",
@@ -69,6 +79,21 @@
 			"author": "Linked Designs",
             		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/kylo.png",
             		"name": "Kylo"
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/obi-wan.png",
+            		"name": "Kylo"
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/sword%20in%20the%20stone.png",
+            		"name": "Sword in the Stone"
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/atardis%202600.png",
+            		"name": "Atardis 2600"
 		}
 	]
 }
