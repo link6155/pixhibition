@@ -97,11 +97,6 @@
 		},
 		{
 			"author": "Linked Designs",
-            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/sunset.png",
-            		"name": "Sunset"
-		},
-		{
-			"author": "Linked Designs",
             		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/blocky_pond.png",
             		"name": "Blocky Pond"
 		},
@@ -124,6 +119,11 @@
 			"author": "Linked Designs",
             		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/waka_waka.png",
             		"name": "Waka Waka"
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/sunset.png",
+            		"name": "Sunset"
 		}
 	]
 }
