@@ -95,10 +95,35 @@
             		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/atardis%202600.png",
             		"name": "Atardis 2600"
 		},
-				{
+		{
 			"author": "Linked Designs",
             		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/sunset.png",
             		"name": "Sunset"
-		}
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/blocky_pond.png",
+            		"name": "Blocky Pond"
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/constricted.png",
+            		"name": "Constricted"
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/how_nestalgic.png",
+            		"name": "How Nestalgic"
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/its_dangerous_to_go_alone.png",
+            		"name": "It's dangerous to go alone"
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/waka_waka.png",
+            		"name": "Waka Waka"
+		},
 	]
 }
