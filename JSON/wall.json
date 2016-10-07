@@ -124,6 +124,21 @@
 			"author": "Linked Designs",
             		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/sunset.png",
             		"name": "Sunset"
+		},
+		{
+			"author": "Linked Designs",
+								"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/recall.png",
+								"name": "Recall"
+		},
+		{
+			"author": "Linked Designs",
+								"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/old_terminal.png",
+								"name": "Old Terminal"
+		},
+		{
+			"author": "Linked Designs",
+								"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/pika.png",
+								"name": "Pika"
 		}
 	]
 }
