@@ -1,0 +1,214 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "Holiday"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Abstract"
+            },
+            {
+                "name": "Urban"
+            },
+            {
+                "name": "VideoGame"
+            },
+            {
+                "name": "Misc"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/twentyseventeen.png",
+            	"name": "TwentySeventeen" ,
+                "category": "Holiday"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/edge%20of%20serenity.png",
+				"name": "Edge of Serenity",
+                "category": "Nature"
+			},
+			{
+				"author": "Linked Designs",
+				"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/edge%20of%20serenity%20wide.png",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5d0xqb3ktUzRQZDg",
+				"name": "Edge of Serenity (Landscape)",
+                "category": "Nature"
+			},
+			{
+				"author": "Linked Designs",
+           		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/hot_and_cold.png",
+            	"name": "Hot and Cold",
+            	"category": "Abstract"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/penrose.png",
+            	"name": "Penrose",
+                "category": "Abstract"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/pixcity.png",
+            	"name": "Pixcity",
+                "category": "Urban"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/orpix.png",
+            	"name": "Orpix",
+                "category": "VideoGame, Nature"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/orpix_wide.png",
+           		"name": "Orpix (Landscape)",
+                "category": "VideoGame, Nature"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/mining.png",
+            	"name": "Mining",
+                "category": "VideoGame, Nature"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/super%20pixbit%20world.png",
+           		"name": "Super PixBit World",
+                "category": "VideoGame, Nature"
+			},
+			{
+				"author": "Linked Designs",
+           		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/tinypixl1080.png",
+           		"name": "Tiny Pixl",
+                "category": "VideoGame, Nature"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/cool.png",
+            	"name": "Cool",
+                "category": "Abstract"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/tree1080.png",
+           		"name": "Tree",
+                "category": "Nature"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/anakin.png",
+            	"name": "Anakin",
+                "category": "Misc"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/luke.png",
+           		"name": "Luke",
+                "category": "Misc"          	
+			},
+			{
+				"author": "Linked Designs",
+           		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/kylo.png",
+           		"name": "Kylo",
+                "category": "Misc"
+			},
+			{
+				"author": "Linked Designs",
+           		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/obi-wan.png",
+            	"name": "Obi-Wan",
+                "category": "Misc"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/sword%20in%20the%20stone.png",
+           		"name": "Sword in the Stone",
+                "category": "Nature"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/atardis%202600.png",
+            	"name": "Atardis 2600",
+                "category": "VideoGame"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/blocky_pond.png",
+           		"name": "Blocky Pond",
+                "category": "Nature"
+			},
+			{
+				"author": "Linked Designs",
+           		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/constricted.png",
+           		"name": "Constricted",
+                "category": "VideoGame"
+			},
+			{
+				"author": "Linked Designs",
+            	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/how_nestalgic.png",
+           		"name": "How Nestalgic",
+                "category": "VideoGame"
+			},
+			{
+				"author": "Linked Designs",
+           		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/its_dangerous_to_go_alone.png",
+           		"name": "Its dangerous to go alone",
+                "category": "VideoGame"
+			},
+			{
+				"author": "Linked Designs",
+           		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/waka_waka.png",
+            	"name": "Waka Waka",
+                "category": "VideoGame"
+			},
+			{
+				"author": "Linked Designs",
+           		"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/sunset.png",
+            	"name": "Sunset",
+                "category": "Nature"
+			},
+			{
+				"author": "Linked Designs",
+				"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/recall.png",
+				"name": "Recall",
+                "category": "VideoGame"
+			},
+            {
+				"author": "Linked Designs",
+				"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/old_terminal.png",
+				"name": "Old Terminal",
+                "category": "VideoGame, Misc"
+			},
+			{
+				"author": "Linked Designs",
+				"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/pika.png",
+				"name": "Pika",
+                "category": "VideoGame"
+			},
+			{
+				"author": "Iku",
+				"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/kyoto.jpg",
+				"name": "Kyoto",
+                "category": "Urban"
+			},
+			{
+				"author": "Iku",
+				"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/eyes%20on%20you.jpg",
+				"name": "Eyes on You",
+                "category": "Abstract"
+			},
+			{
+				"author": "Iku",
+				"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/mist.jpg",
+				"name": "Mist",
+                "category": "Nature"
+			}
+		]
+}
