@@ -26,19 +26,21 @@
 			{
 				"author": "Linked Designs",
             	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/twentyseventeen.png",
+            	"thumburl": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/twentyseventeen.png",
             	"name": "TwentySeventeen" ,
                 "category": "Holiday"
 			},
 			{
 				"author": "Linked Designs",
             	"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/edge%20of%20serenity.png",
+            	"thumburl": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/edge%20of%20serenity.png",
 				"name": "Edge of Serenity",
                 "category": "Nature"
 			},
 			{
 				"author": "Linked Designs",
 				"url": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/edge%20of%20serenity%20wide.png",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5d0xqb3ktUzRQZDg",
+				"thumburl": "https://raw.githubusercontent.com/link6155/pixhibition/master/walls/edge%20of%20serenity%20wide.png",
 				"name": "Edge of Serenity (Landscape)",
                 "category": "Nature"
 			},
