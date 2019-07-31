@@ -1,0 +1,24 @@
+{
+	"wallpapers": [
+		{
+			"author": "Unsplash",
+            		"url": "https://i.imgur.com/ANG5pHo.jpg",
+            		"name": "Unsplash"
+		},
+		{
+			"author": "Unsplash",
+            		"url": "https://i.imgur.com/nq96Rcm.png",
+            		"name": "Unsplash"
+		},
+		{
+			"author": "Unsplash",
+            		"url": "https://i.imgur.com/31tKeA2.png",
+            		"name": "Unsplash"
+		},
+		{
+			"author": "Unsplash",
+            		"url": "https://i.imgur.com/r4txAGp.png",
+            		"name": "Unsplash"
+		}
+	]
+}
