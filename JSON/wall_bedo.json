@@ -1,6 +1,21 @@
 {
 	"wallpapers": [
 		{
+			"author": "Apple",
+            		"url": "https://i.imgur.com/W9MwiYd.png",
+            		"name": "Blobs"
+		},
+		{
+			"author": "Apple",
+            		"url": "https://i.imgur.com/lhFMTR4.jpg",
+            		"name": "Lava Lamp"
+		},
+		{
+			"author": "Apple",
+            		"url": "https://i.imgur.com/6YfIwZb.png",
+            		"name": "Hell's Gate"
+		},
+		{
 			"author": "Zacharie Loire",
             		"url": "https://i.imgur.com/lXdiDmQ.png",
             		"name": "Gradient afternoon"
