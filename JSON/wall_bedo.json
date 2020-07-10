@@ -1,59 +1,57 @@
-{
-	"wallpapers": [
-		{
-			"author": "Apple",
-            		"url": "https://i.imgur.com/W9MwiYd.png",
-            		"name": "Blobs"
-		},
-		{
-			"author": "Apple",
-            		"url": "https://i.imgur.com/lhFMTR4.jpg",
-            		"name": "Lava Lamp"
-		},
-		{
-			"author": "Apple",
-            		"url": "https://i.imgur.com/6YfIwZb.png",
-            		"name": "Hell's Gate"
-		},
-		{
-			"author": "Zacharie Loire",
-            		"url": "https://i.imgur.com/lXdiDmQ.png",
-            		"name": "Gradient afternoon"
-		},
-		{
-			"author": "Zacharie Loire",
-            		"url": "https://i.imgur.com/oDJhf7C.png",
-            		"name": "Gradient morning"
-		},
-		{
-			"author": "Unsplash",
-            		"url": "https://i.imgur.com/xvIu0sp.png",
-            		"name": "Gradient night"
-		},
-		{
-			"author": "Zacharie Loire",
-            		"url": "https://i.imgur.com/TLN3W2A.png",
-            		"name": "Gradient evening"
-		},
-		{
-			"author": "",
-            		"url": "https://i.imgur.com/rDiATD5.jpg",
-            		"name": "A Swedish winter"
-		},		
-		{
-			"author": "Zacharie Loire",
-            		"url": "https://i.imgur.com/N199qDl.jpg",
-            		"name": "Palms"
-		},
-		{
-			"author": "Zacharie Loire",
-            		"url": "https://i.imgur.com/WGSl6V0.jpg",
-            		"name": "Deep forest"
-		},
-		{
-			"author": "Zacharie Loire",
-            		"url": "https://i.imgur.com/boejv3m.jpg",
-            		"name": "Dark theme"
-		}
+[
+	{
+		"author": "Apple",
+		"url": "https://i.imgur.com/W9MwiYd.png",
+		"name": "Blobs"
+	},
+	{
+		"author": "Apple",
+		"url": "https://i.imgur.com/lhFMTR4.jpg",
+		"name": "Lava Lamp"
+	},
+	{
+		"author": "Apple",
+		"url": "https://i.imgur.com/6YfIwZb.png",
+		"name": "Hell's Gate"
+	},
+	{
+		"author": "Zacharie Loire",
+		"url": "https://i.imgur.com/lXdiDmQ.png",
+		"name": "Gradient afternoon"
+	},
+	{
+		"author": "Zacharie Loire",
+		"url": "https://i.imgur.com/oDJhf7C.png",
+		"name": "Gradient morning"
+	},
+	{
+		"author": "Unsplash",
+		"url": "https://i.imgur.com/xvIu0sp.png",
+		"name": "Gradient night"
+	},
+	{
+		"author": "Zacharie Loire",
+		"url": "https://i.imgur.com/TLN3W2A.png",
+		"name": "Gradient evening"
+	},
+	{
+		"author": "",
+		"url": "https://i.imgur.com/rDiATD5.jpg",
+		"name": "A Swedish winter"
+	},		
+	{
+		"author": "Zacharie Loire",
+		"url": "https://i.imgur.com/N199qDl.jpg",
+		"name": "Palms"
+	},
+	{
+		"author": "Zacharie Loire",
+		"url": "https://i.imgur.com/WGSl6V0.jpg",
+		"name": "Deep forest"
+	},
+	{
+		"author": "Zacharie Loire",
+		"url": "https://i.imgur.com/boejv3m.jpg",
+		"name": "Dark theme"
+	}
 	]
-}
